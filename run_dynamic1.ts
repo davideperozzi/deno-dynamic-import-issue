@@ -1,1 +1,1 @@
-console.log(await import('./config.ts'));
+console.log(await import('./npm_import.ts'));
