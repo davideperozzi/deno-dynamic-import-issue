@@ -1,0 +1,1 @@
+console.log(await import(import.meta.resolve(Deno.args[0])));
